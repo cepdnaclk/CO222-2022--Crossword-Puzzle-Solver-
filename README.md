@@ -1,7 +1,5 @@
-___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
-___
+# CO222-2022- Crossword Puzzle Solver 
+## E/19/060 - DANUJAN S.
+## E/19/205 - KUMARA I.P.S.N.U
 
-## Please refer the instructions in below URL:
 
-https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project
